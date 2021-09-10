@@ -1,4 +1,4 @@
-# Rudy Manian's FIrst CS193 Homework
+# Rudy Manian's First CS193 Homework
 - I love that CS193 is taught by students
 - I love how lectures cover genuinely helpful topics
 
